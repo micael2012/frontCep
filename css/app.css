@@ -1,0 +1,75 @@
+body{
+   /* background-color: #e7e6e6;*/
+   background-color:#e4e3ee;
+   background-image: url(../img/self_1.svg);
+   background-repeat: no-repeat;
+   background-position: left 100%;
+   background-size: 25%;
+   
+}
+
+.formulario{
+    background-color: #FFF;
+    padding: 30px;
+    border-radius: 0.5rem;
+    
+}
+
+.formulario{
+    box-shadow: 3px  5px 8px #cfcccc;
+    
+}
+ h2{
+    
+
+     position: relative;
+     margin-top: 50%; 
+     transform: rotate(180deg);
+     margin-left: 50px;
+    color:#FFF;
+    
+    writing-mode: vertical-rl;
+}
+
+input.form-control{
+    font-family: 'Oxanium', cursive;
+
+    font-size: 18px;
+}
+
+.lateral{
+  
+   width: 50px;
+    background-color:#3a2d74;
+    /* background-image: url(../img/self.png); */
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+    margin-right: -10px;
+    z-index: 3;
+}
+
+.btn-custom{
+  /*  padding: 5px 25px 5px 25px;*/
+    border-radius: 100%;
+}
+img{
+    margin-top: 50%;
+    width: 100%;
+}
+.btn-success{
+    
+   background-color: #4b38a0;
+}
+
+.form-control{
+    border: 0px;
+}
+
+.form-control#numero{
+    border: 1px solid #e9ecef;
+}
+
+.form-control#cep{
+    border: 1px solid #e9ecef;
+}
+
